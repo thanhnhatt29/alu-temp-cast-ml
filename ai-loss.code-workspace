@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "web-al-loss",
+			"path": "../web-al-loss"
+		},
+		{
+			"name": "ai-loss",
+			"path": "."
+		}
+	],
+	"settings": {}
+}

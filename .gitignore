@@ -1,0 +1,70 @@
+# Python
+# Compiled source
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.mo
+*.mO
+*.lo
+
+# Distribution / packaging
+.Python
+build/
+dist/
+wheels/
+*.egg-info/
+*.eggs
+PKG-INFO
+# Directories related to coverage run
+.coverage
+.coverage.*
+
+# Unit test / coverage outputs
+htmlcov/
+.tox/
+.nox/
+
+# Editors and IDEs
+.idea/  # For PyCharm
+.vscode/ # For VS Code
+*.swp # For Vim
+
+# Virtual environment
+# venv/
+# .venv/
+# Change the two lines above to match your virtual environment name
+# or uncomment a line if you use a common name
+
+# Specific directories and files
+venv/
+.venv/
+env/
+# OS generated files
+.DS_Store # macOS
+.project # Eclipse
+.settings # Eclipse
+.idea # JetBrains IDEs
+
+# Jupyter Notebook files
+.ipynb_checkpoints
+
+# Python specific files
+# Byte-code files
+*.py[cod]
+
+# C extensions
+*.so
+
+# Executables
+*.exe
+*.dll
+*.dylib
+*.os
+*.ssl
+
+# mypy
+.mypy_cache/
+
+01-data/
+.vscode
