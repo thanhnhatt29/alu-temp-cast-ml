@@ -1,11 +1,9 @@
 {
 	"folders": [
 		{
-			"name": "web-al-loss",
-			"path": "../web-al-loss"
+			"path": "../alu-temp-cast-web"
 		},
 		{
-			"name": "ai-loss",
 			"path": "."
 		}
 	],
