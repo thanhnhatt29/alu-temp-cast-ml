@@ -6,9 +6,6 @@ This script provides multiple methods for outlier detection and cleaning:
 1. IQR (Interquartile Range) method - Statistical approach
 2. Z-score method - Standard deviation approach  
 3. Domain-specific thresholds - Industry knowledge based
-
-Author: AI Assistant
-Date: 2026-01-30
 """
 
 import pandas as pd
